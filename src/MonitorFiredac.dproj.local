@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2022/03/23 11:56:30.613,=C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\dlgSearchText.pas</Transaction>
-    <Transaction>2022/03/23 11:58:45.487,=C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\dlgReplaceText.pas</Transaction>
-    <Transaction>2022/03/23 13:08:57.862,=C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\dlgConfirmReplace.pas</Transaction>
-    <Transaction>2022/03/23 13:32:57.511,C:\Users\DevDelphi\Desktop\MiniMap\src\SynMiniMapTest.dproj=C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\SynMiniMapTest.dproj</Transaction>
-    <Transaction>2022/03/23 13:33:20.153,C:\Users\DevDelphi\Desktop\MiniMap\src\MonitorFiredac.dproj=C:\Users\DevDelphi\Desktop\MiniMap\src\SynMiniMapTest.dproj</Transaction>
-    <Transaction>2022/03/23 13:33:59.939,C:\Users\DevDelphi\Desktop\MiniMap\src\dlgConfirmReplace.pas=C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\dlgConfirmReplace.pas</Transaction>
-    <Transaction>2022/03/23 13:33:59.939,C:\Users\DevDelphi\Desktop\MiniMap\src\dlgConfirmReplace.dfm=C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\dlgConfirmReplace.dfm</Transaction>
-    <Transaction>2022/03/23 13:34:22.609,C:\Users\DevDelphi\Desktop\MiniMap\src\dlgReplaceText.dfm=C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\dlgReplaceText.dfm</Transaction>
-    <Transaction>2022/03/23 13:34:22.609,C:\Users\DevDelphi\Desktop\MiniMap\src\dlgReplaceText.pas=C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\dlgReplaceText.pas</Transaction>
-    <Transaction>2022/03/23 13:34:39.292,C:\Users\DevDelphi\Desktop\MiniMap\src\dlgSearchText.pas=C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\dlgSearchText.pas</Transaction>
-    <Transaction>2022/03/23 13:34:39.292,C:\Users\DevDelphi\Desktop\MiniMap\src\dlgSearchText.dfm=C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\dlgSearchText.dfm</Transaction>
-    <Transaction>2022/03/23 13:34:55.424,C:\Users\DevDelphi\Desktop\MiniMap\src\SynMiniMap.pas=C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\SynMiniMap.pas</Transaction>
-    <Transaction>2022/03/23 13:34:55.424,C:\Users\DevDelphi\Desktop\MiniMap\src\SynMiniMap.dfm=C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\SynMiniMap.dfm</Transaction>
+	<Transactions>
+    <Transaction>2022/03/23 11:56:30.000.613,=C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\dlgSearchText.pas</Transaction>
+    <Transaction>2022/03/23 11:58:45.000.487,=C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\dlgReplaceText.pas</Transaction>
+    <Transaction>2022/03/23 13:08:57.000.862,=C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\dlgConfirmReplace.pas</Transaction>
+    <Transaction>2022/03/23 13:32:57.000.511,C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\SynMiniMapTest.dproj=C:\Users\DevDelphi\Desktop\MiniMap\src\SynMiniMapTest.dproj</Transaction>
+    <Transaction>2022/03/23 13:33:20.000.153,C:\Users\DevDelphi\Desktop\MiniMap\src\SynMiniMapTest.dproj=C:\Users\DevDelphi\Desktop\MiniMap\src\MonitorFiredac.dproj</Transaction>
+    <Transaction>2022/03/23 13:33:59.000.939,C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\dlgConfirmReplace.pas=C:\Users\DevDelphi\Desktop\MiniMap\src\dlgConfirmReplace.pas</Transaction>
+    <Transaction>2022/03/23 13:33:59.000.939,C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\dlgConfirmReplace.dfm=C:\Users\DevDelphi\Desktop\MiniMap\src\dlgConfirmReplace.dfm</Transaction>
+    <Transaction>2022/03/23 13:34:22.000.609,C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\dlgReplaceText.pas=C:\Users\DevDelphi\Desktop\MiniMap\src\dlgReplaceText.pas</Transaction>
+    <Transaction>2022/03/23 13:34:22.000.609,C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\dlgReplaceText.dfm=C:\Users\DevDelphi\Desktop\MiniMap\src\dlgReplaceText.dfm</Transaction>
+    <Transaction>2022/03/23 13:34:39.000.292,C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\dlgSearchText.dfm=C:\Users\DevDelphi\Desktop\MiniMap\src\dlgSearchText.dfm</Transaction>
+    <Transaction>2022/03/23 13:34:39.000.292,C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\dlgSearchText.pas=C:\Users\DevDelphi\Desktop\MiniMap\src\dlgSearchText.pas</Transaction>
+    <Transaction>2022/03/23 13:34:55.000.424,C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\SynMiniMap.pas=C:\Users\DevDelphi\Desktop\MiniMap\src\SynMiniMap.pas</Transaction>
+    <Transaction>2022/03/23 13:34:55.000.424,C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\SynMiniMap.dfm=C:\Users\DevDelphi\Desktop\MiniMap\src\SynMiniMap.dfm</Transaction>
   </Transactions>
 </BorlandProject>

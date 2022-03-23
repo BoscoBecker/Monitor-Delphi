@@ -7,12 +7,13 @@
 
 #Como usar 
 Adicionar na conexão da sua aplicação o seguuinte componente
-Monitor: TFDMoniRemoteClientLink; // Componente
+trace: TFDMoniFlatFileClientLink;// Componente
 
 ```
     
-    Monitor.Tracing := True;
-    Conexao.Params.MonitorBy:= mbFlatFile;
+  Trace.FileName := 'C:\MonitorFiredac\log.txt';
+  Trace.Tracing:= True;
+
 ```
 
 Tracing and Monitoring (FireDAC)

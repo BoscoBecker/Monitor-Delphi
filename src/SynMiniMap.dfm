@@ -767,8 +767,8 @@ object FormSynEditMinimap: TFormSynEditMinimap
         Height = 130
         Align = alClient
         WordWrap = True
-        ExplicitLeft = 3
-        ExplicitTop = 17
+        ExplicitWidth = 3
+        ExplicitHeight = 13
       end
       object Label1: TLabel
         Left = 272

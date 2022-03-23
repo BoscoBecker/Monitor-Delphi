@@ -162,7 +162,10 @@ end;
 procedure TFormSynEditMinimap.InitPathLog;
 begin
   if not FileExists(PATH_FILE_LOG_MONITOR) then
-    ForceDirectories('C:\MonitorFiredac\')
+  begin
+    ForceDirectories('C:\MonitorFiredac\');
+  end else
+    DeleteFile(PATH_FILE_LOG_MONITOR);
 end;
 
 procedure TFormSynEditMinimap.ObterSQL1Click(Sender: TObject);
@@ -357,6 +360,9 @@ var
   FileStream:TFileStream;
   FileList: TStringList;
 begin
+  if not FileExists(PATH_FILE_LOG_MONITOR) then
+   Exit;
+
   var primeiroacess:= False;
   Try
     if FileExists(PATH_FILE_LOG_MONITOR) then

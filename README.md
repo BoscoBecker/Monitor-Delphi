@@ -20,3 +20,6 @@ https://docwiki.embarcadero.com/RADStudio/Alexandria/en/Tracing_and_Monitoring_(
 
 ![alt](src/img/Print.png)
 
+
+O monitoramento se basear em leitura de log via Firedac, disponível em : C:\MonitorFiredac\log.txt
+

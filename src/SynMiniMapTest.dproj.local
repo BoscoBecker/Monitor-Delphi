@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/03/23 11:56:30.613,=C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\dlgSearchText.pas</Transaction>
+    <Transaction>2022/03/23 11:58:45.487,=C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\dlgReplaceText.pas</Transaction>
+    <Transaction>2022/03/23 13:08:57.862,=C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\dlgConfirmReplace.pas</Transaction>
+    <Transaction>2022/03/23 13:32:57.511,C:\Users\DevDelphi\Desktop\MiniMap\src\SynMiniMapTest.dproj=C:\Users\DevDelphi\Downloads\SynEdit-master\SynEdit-master\Demos\MiniMap\SynMiniMapTest.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
